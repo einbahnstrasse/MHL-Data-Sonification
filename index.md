@@ -11,24 +11,24 @@ toc: true
 toc_label: "Syllabus Contents" 
 toc_icon: "book-open"  
 toc_sticky: true   
-sidebar:
-  - title: "3D Mesh"
-    image: "/assets/images/modalys.klein.bottle.v01.png"  
-    image_alt: "3D Mesh"  
-    text: "Model geometry for resonating objects."  
-  - title: "Digital Waveguides"  
-    image_alt: "Ideal String"  
-    image: "/assets/images/ideal.string.v01.png"  
-    text: "Waveguide model of an ideal string."  
-  - title: "Particle Attractors"  
-    image_alt: "Particle Attractors"  
-    image: "/assets/images/mi-gen.particle.attractors.v01.png"  
-    text: "Gravity pulls particles towards oscillators."  
+# sidebar:
+#   - title: "3D Mesh"
+#     image: "/assets/images/modalys.klein.bottle.v01.png"  
+#     image_alt: "3D Mesh"  
+#     text: "Model geometry for resonating objects."  
+#   - title: "Digital Waveguides"  
+#     image_alt: "Ideal String"  
+#     image: "/assets/images/ideal.string.v01.png"  
+#     text: "Waveguide model of an ideal string."  
+#   - title: "Particle Attractors"  
+#     image_alt: "Particle Attractors"  
+#     image: "/assets/images/mi-gen.particle.attractors.v01.png"  
+#     text: "Gravity pulls particles towards oscillators."  
 read_time: true  
 show_date: true  
 date_format: "%Y-%m-%d"  
-date: 2024-03-20   
-last_modified_at: 2024-03-20   
+date: 2024-10-02   
+last_modified_at: 2024-10-02   
 
 ---
 
@@ -47,8 +47,8 @@ last_modified_at: 2024-03-20
 
 ## 1. Essential Contact Information  
 
-**Course Number:** 00791   
-**Semester:** Summer 2024   
+**Course Number:** 00789   
+**Semester:** Winter 2024—2025   
 <!-- **Section:** OL20 (21310)   -->
 **Time:** Tuesdays 14:30-16:00    
 **Location:** 2.43 Electronic Music Studio   
@@ -65,9 +65,9 @@ last_modified_at: 2024-03-20
 
 ## 2. Course Description    
 
-**Physical Modeling Synthesis (Modal Synthesis)** is a second-semester MaxMSP and synthesis course that focuses on Physical Modeling (Modal Synthesis), a technique at the forefront of sound design utilizing niche software to simulate a physical object's acoustic vibrations. Physical models produce timbres that can be both realistic and otherworldly. Together, we will build virtual environments in which vibrating objects are assigned physical properties that shape their timbres (properties like mass, and density; materials such as stone, glass, metal, wood, etc.). We will explore the physics of resonance and the history of synthesis leading to PM techniques in the 1990s. Topics covered include: digital filtering; feedback and recursion; the source-filter model, vocal synthesis; MaxMSP’s gen~ extension to build virtual strings, plates, and membranes; the mi-gen library (“Mass-Interaction Sound Synthesis Toolbox”); the Modalys~ package, and its 3D mesh interface to visually design the geometry of vibrating objects. These tools will provide students with the ultimate flexibility producing new and “unreal” timbres and synthetic textures. Weekly in-class Max patching, occasional small assignments, and a final culmination project, a “work-in-progress,” or a “proof-of-concept” to be shared in class at the end of the semester are required. Although no formal prerequisite exists for this course, prior completion of Sound Synthesis Techniques and Creative Coding is strongly recommended. Taught by Dr. Louis Goldford and offered in English.  
+**Datensonifikation (Data Sonification)** (EN) Effectively since the work of Iannis Xenakis, sonic creators have often drawn from the musical expressivity of data structures to tell their stories. In this seminar, a second-semester course in Digitale Kreation, we will explore a variety of techniques commonly referred to as "sonification," that is, creating sonic sculptures and concert music pieces using data gathered from mostly online resources. Despite any apparent "technical" qualities implied by the course title, students will craft their own musical structures, which evaluate the effectiveness of using real-world data at various levels of musical form and many other parameters (e.g., pitch, rhythm, harmonicity, etc.), providing creators with a variety of choice points and thus any level of freedom from an alogirthm that they desire. MaxMSP and scripting software will be taught and demonstrated, including lessons in JavaScript, iPython, using a variety of techniques such as web scraping and, time pending, data visualization. Class projects may be notated concert works with electronics, sonic installations, or improvisatory environments. Course offered in English. 
 
-
+**Datensonifikation (Data Sonification)** (DE) Seit der Arbeit von Iannis Xenakis haben Klangschöpfer oft die musikalische Ausdruckskraft von Datenstrukturen genutzt, um ihre Geschichten zu erzählen. In diesem Seminar, einem Kurs im zweiten Semester in Digitaler Kreation, werden wir eine Vielzahl von Techniken erkunden, die allgemein als „Sonifikation“ bezeichnet werden, d. h. das Erstellen von Klangskulpturen und Konzertmusikstücken unter Verwendung von Daten, die hauptsächlich aus Online-Ressourcen stammen. Trotz aller offensichtlichen „technischen“ Eigenschaften, die der Kurstitel impliziert, werden die Studenten ihre eigenen musikalischen Strukturen entwickeln, die die Wirksamkeit der Verwendung realer Daten auf verschiedenen Ebenen der musikalischen Form und vieler anderer Parameter (z. B. Tonhöhe, Rhythmus, Harmonie usw.) bewerten und den Schöpfern eine Vielzahl von Auswahlpunkten und damit jedes gewünschte Maß an Freiheit von einem Algorithmus bieten. MaxMSP und Skriptsoftware werden gelehrt und demonstriert, einschließlich Lektionen in JavaScript, iPython, unter Verwendung verschiedener Techniken wie Web Scraping und, je nach Zeit, Datenvisualisierung. Klassenprojekte können notierte Konzertwerke mit Elektronik, Klanginstallationen oder improvisatorischen Umgebungen sein. Kurs wird in englischer Sprache angeboten.  
 
 ### 2.1 Course Goals      
 
