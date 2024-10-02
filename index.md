@@ -50,7 +50,7 @@ last_modified_at: 2024-10-02
 **Course Number:** 00789   
 **Semester:** Winter 2024—2025   
 <!-- **Section:** OL20 (21310)   -->
-**Time:** Tuesdays 14:30-16:00    
+**Time:** Tuesdays 14:30—16:00    
 **Location:** 2.43 Electronic Music Studio   
 **Format:** Seminar   
 **Modality:** In-person     
