@@ -1,0 +1,19 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Typography ========================================================================== */
+@font-face { font-family: 'Florencesans-Exp-Bold'; 
+    src: url("fonts/Florencesans-Exp-Bold.ttf.woff") format("woff"), 
+        url("fonts/Florencesans-Exp-Bold.ttf.svg#Florencesans-Exp-Bold") format("svg"), 
+        url("fonts/Florencesans-Exp-Bold.ttf.eot"), 
+        url("fonts/Florencesans-Exp-Bold.ttf.eot?#iefix") format("embedded-opentype"); 
+    font-weight: normal; 
+    font-style: normal;
+}
+
+// @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&display=swap');
+
+$sans-serif         : "Work Sans";
+$global-font-family : $sans-serif;
