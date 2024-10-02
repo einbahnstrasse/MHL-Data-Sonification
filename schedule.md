@@ -47,7 +47,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * Review [Software Installation.](/MHL-Physical-Modeling/resources/){:target="_blank"}   
 <!-- * Review [Detailed Breakdown of Grading.](/MHL-Physical-Modeling/grading/){:target="_blank"}   -->
 
-#### Listening     
+<!-- #### Listening     
 * [Example of a metal beam structure excited by plucking forces (using the mi-gen~ package)](https://youtu.be/jgzVsZeTNGo?si=31ylLUjj55pTOVwO){:target="_blank"}     
 
 {% include video id="jgzVsZeTNGo?si=31ylLUjj55pTOVwO" provider="youtube" %}   
@@ -112,13 +112,13 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 - physical modeling synthesis      
 - exciter  
 - resonator    
-
+ -->
 * * *
 
 ## Week 2: {{ site.week-02 }}  
 ### <span style="color: #10999e;">{{ site.week-02-topic }}</span>    
 
-#### Tutorials    
+<!-- #### Tutorials    
 * Using GIT for Production Patches      
 
 <img src="/MHL-Physical-Modeling/assets/images/GIT.for.production.patches.v01.drawio.png" width="70%" alt="git for production">   
@@ -179,14 +179,14 @@ _Watch just a few moments of these examples._
 - filter stablility      
 - filter tap    
 - time smearing artefact      
-- linear phase response      
+- linear phase response       -->
 
 * * *
 
 ## Week 3: {{ site.week-03 }}  
 ### <span style="color: #10999e;">{{ site.week-03-topic }}</span>    
 
-#### Tutorials   
+<!-- #### Tutorials   
 * [Reading Spectrograms: Vowels](https://youtu.be/mWel5j-F8lE?si=rlQzDD_KZA-CvjPc){:target="_blank"}         
    
 {% include video id="mWel5j-F8lE?si=rlQzDD_KZA-CvjPc" provider="youtube" %}    
@@ -241,14 +241,14 @@ _Watch just a few moments of these examples._
 - poles and zeros   
 - bi-quad filter   
 - non-linear phase response  
-- transient response   
+- transient response    -->
 
 * * *  
 
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: #10999e;">{{ site.week-04-topic }}</span>    
 
-#### Tutorials   
+<!-- #### Tutorials   
 * [Introduction to <gen~> (slides)](https://einbahnstrasse.github.io/MHL-intro-to-gen/){:target="_blank"}         
 * [Gregory Taylor's Introduction to gen~ Tutorial series (optional)](https://cycling74.com/tutorials/gen-video-tutorial-series){:target="_blank"}         
 * [Musicdsp.org (optional)](https://www.musicdsp.org/en/latest/){:target="_blank"}     
@@ -284,14 +284,14 @@ _Watch just a few moments of these examples._
 - `<delay>` _(the_ `<gen~>` _operator using @feedback 1)_    
 - `<history>`   
 - `<param>`   
-- `<codebox>`    
+- `<codebox>`     -->
 
 * * *  
 
 ## Week 5: {{ site.week-05 }}  
 ### <span style="color: #10999e;">{{ site.week-05-topic }}</span>    
 
-#### Tutorials    
+<!-- #### Tutorials    
 * [gen~ Operators](https://docs.cycling74.com/max8/vignettes/gen~_operators){:target="_blank"}  
 * [Reference page for the Karplus-Strong Algorithm (Stanford)](https://ccrma.stanford.edu/~jos/pasp/Karplus_Strong_Algorithm.html){:target="_blank"}     
 * [Reference page for Digital Waveguides (Stanford)](https://ccrma.stanford.edu/~bilbao/booktop/node15.html){:target="_blank"}     
@@ -325,7 +325,7 @@ _Watch just a few moments of these examples._
 * DC-blocking filter   
 * `samplerate`    
 * `<history>`   
-* `<dcblock>`   
+* `<dcblock>`    -->
 <!-- * scattering junction       -->
     
 * * *   
@@ -333,7 +333,7 @@ _Watch just a few moments of these examples._
 ## Week 6: {{ site.week-06 }}  
 ### <span style="color: #10999e;">{{ site.week-06-topic }}</span>    
 
-#### Zoom Link   
+<!-- #### Zoom Link   
 * [https://columbiauniversity.zoom.us/j/93295410482?pwd=Q3Z5RUR6OU1SUDRNbVBrMkhyT3Vzdz09](https://columbiauniversity.zoom.us/j/93295410482?pwd=Q3Z5RUR6OU1SUDRNbVBrMkhyT3Vzdz09){:target="_blank"}     
    
 #### Tutorials    
@@ -363,14 +363,14 @@ _Watch just a few moments of these examples._
 * body filter   
 * bow position table  
 * `<buffer>`   
-* `<sample>`   
+* `<sample>`    -->
 
 * * *
 
 ## Week 7: {{ site.week-07 }}  
 ### <span style="color: #10999e;">{{ site.week-07-topic }}</span>    
 
-#### Tutorials    
+<!-- #### Tutorials    
 * [Scattering Junctions](https://ccrma.stanford.edu/~jos/pasp/Scattering_Impedance_Changes.html){:target="_blank"}   
 * Flute Model Block Diagram     
      
@@ -405,14 +405,14 @@ _Watch just a few moments of these examples._
 
 #### Terms, Concepts, Objects, Shortcuts  
 * wave impedance  
-* scattering junction      
+* scattering junction       -->
 
 * * *
 
 ## Week 8: {{ site.week-08 }}  
 ### <span style="color: #10999e;">{{ site.week-08-topic }}</span>    
 
-#### Tutorials  
+<!-- #### Tutorials  
 * [Basic Concepts of Synthesis with Modalys](https://support.ircam.fr/docs/Modalys/current/Introduction.html#basic-concepts-of-synthesis-with-modalys){:target="_blank"}         
    
 #### Downloads     
@@ -451,7 +451,7 @@ _Watch just a few moments of these examples._
 * `<modalys~>`   
 * `access-in-position`   
 * `access-out-position`   
-* `<mlys.point-output>`   
+* `<mlys.point-output>`    -->
    
 * * *
 
@@ -478,7 +478,7 @@ _Watch just a few moments of these examples._
 ## Week 10: {{ site.week-10 }}  
 ### <span style="color: #10999e;">{{ site.week-10-topic }}</span>    
 
-#### Downloads  
+<!-- #### Downloads  
 * [Cymbal model](/MHL-Physical-Modeling/assets/modified.simple.cymbal.v01.maxpat){:target="_blank"}   
 
 #### Tutorials  
@@ -506,14 +506,14 @@ _Watch just a few moments of these examples._
 * plasticity  
 * density   
 * Young's modulus   
-* Poisson coefficient (Poisson's ratio)    
+* Poisson coefficient (Poisson's ratio)     -->
    
 * * *
 
 ## Week 11: {{ site.week-11 }}  
 ### <span style="color: #10999e;">{{ site.week-11-topic }}</span>    
 
-### Tutorials 
+<!-- ### Tutorials 
 
 #### Assignments  
 * **Finish these patches** we made in class:   
@@ -554,14 +554,14 @@ _Watch just a few moments of these examples._
 * Medit   
 * `duplicate 'rotation`   
 * `duplicate 'translation`     
-* `duplicate 'homothety`   
+* `duplicate 'homothety`    -->
 
 * * *
 
 ## Week 13: {{ site.week-13 }}  
 ### <span style="color: #10999e;">{{ site.week-13-topic }}</span>    
 
-#### Tutorials  
+<!-- #### Tutorials  
 
 #### Assignments   
 * Prepare for our guest, composer **Jason Thorpe Buchanan** next week: [Watch and listen to the pieces in his portfolio _(follow the links)_](https://www.dropbox.com/scl/fi/07js8md3z0p0zy4zz1s8x/ThorpeBuchanan_SelectPortfolio_Jun4.2024-opt.pdf?rlkey=0oprtauipwsnv10t6lsjz0ib2&e=1&dl=0){:target="_blank"}        
@@ -586,14 +586,14 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
-_Terms list coming soon!_    
+_Terms list coming soon!_     -->
 
 * * *
 
 ## Week 15: {{ site.week-15 }}   
 ### <span style="color: #10999e;">{{ site.week-15-topic }}</span>    
 
-#### Tutorials   
+<!-- #### Tutorials   
 
 ### Listening   
 
@@ -602,7 +602,21 @@ _Terms list coming soon!_
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
-_Terms list coming soon!_    
-
+_Terms list coming soon!_     -->
+  
 * * *
 
+## Week 16: {{ site.week-15 }}   
+### <span style="color: #10999e;">{{ site.week-16-topic }}</span>    
+  
+* * *
+
+## Week 17: {{ site.week-15 }}   
+### <span style="color: #10999e;">{{ site.week-17-topic }}</span>    
+  
+* * *
+
+## Week 18: {{ site.week-15 }}   
+### <span style="color: #10999e;">{{ site.week-18-topic }}</span>    
+  
+* * *
