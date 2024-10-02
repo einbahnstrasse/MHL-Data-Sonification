@@ -273,6 +273,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <td markdown="span">16</td>
 <td markdown="span">{{ site.week-16 }}</td>
 <td markdown="span"><a href="schedule/#w16" target="_blank">{{ site.week-16-topic }}</a></td>
+</tr>
 <tr>
 <td markdown="span">17</td>
 <td markdown="span">{{ site.week-17 }}</td>
