@@ -269,16 +269,20 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <td markdown="span">{{ site.week-15 }}</td>
 <td markdown="span"><a href="schedule/#w15" target="_blank">{{ site.week-15-topic }}</a></td>
 </tr>
-<!-- <tr>
+<tr>
 <td markdown="span">16</td>
 <td markdown="span">{{ site.week-16 }}</td>
-<td markdown="span"><a href="schedule/#w16" target="_blank">Granular Synthesis and Bach Slots</a></td>
-</tr>
+<td markdown="span"><a href="schedule/#w16" target="_blank">{{ site.week-16-topic }}</a></td>
 <tr>
 <td markdown="span">17</td>
 <td markdown="span">{{ site.week-17 }}</td>
-<td markdown="span"><a href="schedule/#w17" target="_blank"><em>No Class!</em></a></td>
-</tr> -->
+<td markdown="span"><a href="schedule/#w17" target="_blank">{{ site.week-17-topic }}</a></td>
+</tr>
+<tr>
+<td markdown="span">18</td>
+<td markdown="span">{{ site.week-18 }}</td>
+<td markdown="span"><a href="schedule/#w18" target="_blank">{{ site.week-18-topic }}</a></td>
+</tr>
 </tbody>
 </table>
 </div>
