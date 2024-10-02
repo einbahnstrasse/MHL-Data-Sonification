@@ -113,17 +113,17 @@ _This page will be updated frequently with examples, video tutorials, links to n
   
 * * *
 
-## Week 16: {{ site.week-15 }}   
+## Week 16: {{ site.week-16 }}   
 ### <span style="color: #10999e;">{{ site.week-16-topic }}</span>    
   
 * * *
 
-## Week 17: {{ site.week-15 }}   
+## Week 17: {{ site.week-17 }}   
 ### <span style="color: #10999e;">{{ site.week-17-topic }}</span>    
   
 * * *
 
-## Week 18: {{ site.week-15 }}   
+## Week 18: {{ site.week-18 }}   
 ### <span style="color: #10999e;">{{ site.week-18-topic }}</span>    
   
 * * *
