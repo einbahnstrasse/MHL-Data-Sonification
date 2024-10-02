@@ -15,8 +15,8 @@ toc_label: "Schedule" # default: Content
 toc_icon: "bell"  # corr esponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc 
 read_time: true  
-date: 2024-03-20   
-last_modified_at: 2024-03-20   
+date: 2024-10-02   
+last_modified_at: 2024-10-02   
 
 ---
 
@@ -43,8 +43,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Start-of-Semester Business  
 
-* Review [Syllabus + course policies.](/MHL-Physical-Modeling/index.html){:target="_blank"}  
-* Review [Software Installation.](/MHL-Physical-Modeling/resources/){:target="_blank"}   
+* Review [Syllabus + course policies.](/MHL-Data-Sonification/index.html){:target="_blank"}  
+* Review [Software Installation.](/MHL-Data-Sonification/resources/){:target="_blank"}   
 
 * * *  
 

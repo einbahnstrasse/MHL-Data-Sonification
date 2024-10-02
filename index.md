@@ -61,7 +61,7 @@ last_modified_at: 2024-10-02
 **Office Hours:** Monday — Wednedsay <mark>by appointment</mark>   
 **Office Location:** 2.47A _"The Aquarium"_ (next to 2.43 Electronic Music Studio)  
 **MHL Discord Server:** [https://discord.gg/2t9kcuGZ](https://discord.gg/2t9kcuGZ){:target="_blank"}      
-**Course Website:** [https://einbahnstrasse.github.io/MHL-Physical-Modeling/](https://einbahnstrasse.github.io/MHL-Physical-Modeling/){:target="_blank"}  
+**Course Website:** [https://einbahnstrasse.github.io/MHL-Data-Sonification/](https://einbahnstrasse.github.io/MHL-Data-Sonification/){:target="_blank"}  
 
 ## 2. Course Description    
 
@@ -87,7 +87,7 @@ _By the end of the course, successful students will be able to do the following:
 
 ### 2.3 Required Software + Hardware    
 
-_See the [RESOURCES TAB](/MHL-Physical-Modeling/resources){:target="_blank"} for download and documentation links._  
+_See the [RESOURCES TAB](/MHL-Data-Sonification/resources){:target="_blank"} for download and documentation links._  
 1. personal laptop  
 2. headphones  
 3. MaxMSP  
