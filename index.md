@@ -56,7 +56,7 @@ last_modified_at: 2024-10-02
 **Modality:** In-person     
 <!-- <span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>    -->
 
-**Instructor:** Louis Goldford  
+**Instructor:** Dr. Louis Goldford  
 **Email:** <a href="mailto:Louis.Goldford@mh-luebeck.de">Louis.Goldford@mh-luebeck.de</a>  
 **Office Hours:** Monday — Wednedsay <mark>by appointment</mark>   
 **Office Location:** 2.47A _"The Aquarium"_ (next to 2.43 Electronic Music Studio)  
