@@ -46,10 +46,61 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * Review [Syllabus + course policies.](/MHL-Data-Sonification/index.html){:target="_blank"}  
 * Review [Software Installation.](/MHL-Data-Sonification/resources/){:target="_blank"}   
 
+#### Topics in Sonification    
+* [Class Discussion Mind Map](assets/images/sonification-day-1.drawio.svg){:target="_blank"}         
+* [What is Data? Python Word Cloud](assets/images/wordcloud_data_definition.png){:target="_blank"}         
+  
+<img src="/MHL-Data-Sonification/assets/images/wordcloud_data_definition.png" width="70%" alt="Python Word Cloud">   
+   
+#### Assignments    
+_(Unless otherwise noted, assignments are always due before the next class!)_ 
+* Join our Digitale Kreation Discord Server and our new `#data-sonification` channel      
+* **Install** Visual Studio Code (“VS Code”)  
+* **Install** Python 3 (any version 3 — not 2 — will do just fine!)  
+  
+* **Finish these things** we made in class:   
+  - `first.python.v01.py`   
+    
+#### Terms, Concepts, Objects, Shortcuts    
+- auditory display   
+- sonification      
+   
 * * *  
 
 ## Week 2: {{ site.week-02 }}  
 ### <span style="color: #10999e;">{{ site.week-02-topic }}</span>    
+   
+#### Downloads       
+* [Population of Berlin 1955-2024 v01.xlsx](assets/boilers/Population.of.Berlin.1955-2024.v01.xlsx){:target="_blank"}         
+   
+#### Assignments    
+* Do something fun with `coll.import.v01.maxpat`! Come prepared next week!   
+* Be sure you have access to [Google Sheets](https://workspace.google.com/products/sheets/){:target="_blank"} via your own [Gmail address](https://www.google.com/intl/en_de/gmail/about/){:target="_blank"}   
+   
+* **Finish these things** we made in class:   
+  - `Population of Berlin 1955-2024 v02.xlsx`   
+  - `coll.import.v01.maxpat`   
+   
+#### Terms, Concepts, Objects, Shortcuts    
+- data dimensionality   
+- spreadsheet  
+- two dimensional data (2D data)  
+- rows and columns   
+- cell reference  
+- formula   
+- function   
+- data range   
+- smooth line chart   
+- series   
+- bounds   
+- gridlines   
+- ticks   
+- concatenation       
+- `MIN()`        
+- `MAX()`        
+- `CONCATENATE()`    
+- `coll`   
+- index  
   
 * * *
 
