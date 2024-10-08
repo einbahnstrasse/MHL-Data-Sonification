@@ -78,8 +78,9 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 * Be sure you have access to [Google Sheets](https://workspace.google.com/products/sheets/){:target="_blank"} via your own [Gmail address](https://www.google.com/intl/en_de/gmail/about/){:target="_blank"}   
    
 * **Finish these things** we made in class:   
-  - `Population of Berlin 1955-2024 v02.xlsx`   
-  - `coll.import.v01.maxpat`   
+  - `Population of Berlin 1955-2024 v02.xlsx`     
+  - `berlin.population.v01.txt`    
+  - `import.to.coll.v01.maxpat`    
    
 #### Terms, Concepts, Objects, Shortcuts    
 - data dimensionality   
@@ -111,7 +112,7 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 * [Introduction to Python Slides](https://einbahnstrasse.github.io/MTEC1003-slides/slides/python.intro.tutorial.v02/#/){:target="_blank"}  
    
 * * *  
-
+   
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: #10999e;">{{ site.week-04-topic }}</span>    
 
