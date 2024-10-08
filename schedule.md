@@ -107,6 +107,9 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 ## Week 3: {{ site.week-03 }}  
 ### <span style="color: #10999e;">{{ site.week-03-topic }}</span>    
 
+#### Tutorials   
+* [Introduction to Python Slides](https://einbahnstrasse.github.io/MTEC1003-slides/slides/python.intro.tutorial.v02/#/){:target="_blank"}  
+   
 * * *  
 
 ## Week 4: {{ site.week-04 }}  
