@@ -167,7 +167,7 @@ For further assistance troubleshooting Jupyter-related installation, consult the
 At any time, exit the Jupyter server  by typing `control Z` to return to your normal Terminal bash command prompt, which should give you something like this:   
 
 ```
-[3]+  Stopped	python3 -m	jupyterlab
+[3]+  Stopped	python3 -m jupyterlab
 louisgoldford$ 
 ``` 
    
@@ -213,7 +213,7 @@ We will run Julia in the Terminal like this. If you do not see a `julia>` prompt
 At any time, exit **REPL mode**  by typing `control Z` to return to your normal Terminal bash command prompt, which should give you something like this:   
 
 ```
-[1]+  Stopped	julia
+[1]+  Stopped julia
 louisgoldford$ 
 ```
     
