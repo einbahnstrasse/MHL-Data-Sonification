@@ -109,18 +109,56 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 ### <span style="color: #10999e;">{{ site.week-03-topic }}</span>    
 
 #### Tutorials   
+* [JavaScript Basics](https://einbahnstrasse.github.io/Goldford-MTEC1003/labs/05/js-basics.html#1.0){:target="_blank"}  
 * [Introduction to Python Slides](https://einbahnstrasse.github.io/MTEC1003-slides/slides/python.intro.tutorial.v02/#/){:target="_blank"}  
+
+#### Terms, Concepts, Objects, Shortcuts    
+- high level programming language     
+- JavaScript Console   
+- HTML   
+- `<script></script>`   
+- values and types (numbers, strings, boolean, Infinity, `NaN`, null/undefined)  
+- `typeof x` and `typeof(x)`   
+- binary operators (`+`, `-`, `*`, `/`, `%`)  
+- string concatenation   
+- expression, statement, and program     
+- function   
+- call to a function   
+- arguments   
+- variables and `=`   
+- declaration       
+- comments  
    
 * * *  
    
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: #10999e;">{{ site.week-04-topic }}</span>    
 
+#### Terms, Concepts, Objects, Shortcuts    
+- control flow  
+- iteration   
+- "for loop"  
+- `for x in myExs`  
+- while loop  
+- conditional statement   
+- comparison operators (`==`, `===`, `!=`, `!==`, `<`, `>`, `>=`, `<=`, `is`, `is not`)  
+- logical operators (`&&`, `||`, `!`, `and`, `or`, `not`)  
+- `=` vs. `==` vs. `!==` vs. `===`   
+- local vs. global variables   
+- variable scope: `var`, `let`, and `const`       
+
 * * *  
 
 ## Week 5: {{ site.week-05 }}  
 ### <span style="color: #10999e;">{{ site.week-05-topic }}</span>    
     
+#### Terms, Concepts, Objects, Shortcuts    
+- 
+- recursion  
+- recursive function   
+
+
+
 * * *   
   
 ## Week 6: {{ site.week-06 }}  

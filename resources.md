@@ -87,7 +87,15 @@ pip 18.1 from C:\Python37\lib\site-packages\pip (python 3.7)
 ```
 
 Let me know if you are returned an error of some sort, or if you are returned an output that substantially differs from what I've listed above.   
-   
+
+### Create a Python3 Alias       
+
+Create an **alias** so that anytime you run the `python` command in a Terminal session, you’ll be using **Python3** instead of an older version. When using Python, run the following command when you begin a Terminal session:  
+  
+```
+alias python=/usr/local/bin/python3  
+```
+     
 ## Project Jupyter      
 
 We will also be using the Jupyter univere of computational tools, including Jupyter Notebook and JupyterLab for interactive web-based computational tutorials, and in order to ***arrange workflows in data science, scientific computing, computational journalism, and machine learning.***     
