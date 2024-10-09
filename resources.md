@@ -13,29 +13,202 @@ toc_icon: "laptop"
 toc_sticky: true   
 read_time: true  
 show_date: true  
-date: 2024-03-20   
+date: 2024-09-30   
 date_format: "%Y-%m-%d"  
-last_modified_at: 2024-03-20    
+last_modified_at: 2024-10-09    
 
 ---
-
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"/>
-
-<div class="lang-sidebar">
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %}
-    <li class="zoom"><a href="/MHL-Physical-Modeling{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
-  {% endfor %}
-</div>
-
-<div class="top-h1-icon">
-  <i class="fas fa-book-open fa-2x"></i>
-</div>   -->
-
+   
 A list of stuff we'll be using throughout the course.    
 
 _Be sure to install + verify these applications before their respective deadlines listed on our Schedule page._   
 
+## Text Editor  
+
+Highlight your code, easily find & replace, and a LOT more... 
+
+_We will be using a text editor for a variety of regular tasks nearly every week in this course. Check your operating system for compatibility. Visual Studio Code is recommended, and we will be demonstrating our in-class examples using it._  
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
+	<a href="https://code.visualstudio.com/download/" target="_blank" class="btn btn--primary">Visual Studio Code</a> <a href="https://www.sublimetext.com/" target="_blank" class="btn btn--primary">Sublime Text</a> <a href="https://espressoapp.com/" target="_blank" class="btn btn--primary">Espresso</a> <a href="https://brackets.io/" target="_blank" class="btn btn--primary">Brackets.io</a>
+</span>
+
+## Python3 and pip3   
+
+**Python** is an object-oriented, interpreted, and interactive programming language that we’ll be introducing alongside JavaScript.
+
+**pip** is the standard package manager for the Python language, allowing you to easily install code packages and modules from an extensive library. We'll be using a variety of these to faciliate mathetmatics, machine learning, audio analysis, and visualization. 
+
+mac0S comes bundled with Python 2.7, where Windows machines do not have Python installed by default. We will be using **Python3** in this class along with **pip3**, and they must be installed separately. Follow the link below to make these installations, and be sure to choose the most recent versions of Python 3 and pip3!    
+
+### Install     
+
+Install **Python3** and **pip3** on your Mac or Windows computer using [Tutorial: How to Install Python on macOS and Windows](https://www.datacamp.com/blog/how-to-install-python?dc_referrer=https%3A%2F%2Fwww.google.com%2F){:target="_blank"}   
+
+You can also use the article [How to install and use Pip3](https://www.activestate.com/resources/quick-reads/how-to-install-and-use-pip3/){:target="_blank"} for additional assistance if necessary.  
+  
+These installation steps will take some time and will spit out a lot of details on the command line. Keep an eye out for anything that appears as an error message. It's always a good idea to copy the installation log and save it as a text file in case it needs to be reviewed later. Report any such errors to me and include the text you copied, and we'll fix it.  
+
+After each command, wait for your **command prompt** to return to be sure it finished. Your computer's user name will be visible along with the prompt symbol, typically `$` or `%`, and maybe even a fancy blinking cursor...      
+
+```
+louisgoldford$ 
+```
+
+### Verify  
+
+Open your Terminal and run:
+
+```
+python3 --version
+```
+
+Your console should return something that looks like this:
+
+```
+Python 3.8.5
+```
+
+Then, in your Terminal run this:
+```
+pip3 --version
+```
+
+Your console should return something that looks like this:
+
+```
+pip 24.0 from /Users/louisgoldford/Library/Python/3.8/lib/python/site-packages/pip (python 3.8)
+```
+
+or:
+
+```
+pip 18.1 from C:\Python37\lib\site-packages\pip (python 3.7)
+```
+
+Let me know if you are returned an error of some sort, or if you are returned an output that substantially differs from what I've listed above.   
+   
+## Project Jupyter      
+
+We will also be using the Jupyter univere of computational tools, including Jupyter Notebook and JupyterLab for interactive web-based computational tutorials, and in order to ***arrange workflows in data science, scientific computing, computational journalism, and machine learning.***     
+
+### Install  
+
+Make sure you have **Python3** and **pip3** installed first.  
+
+[Installation instructions can be found here](https://jupyter.org/install.html){:target="_blank"}, but they are also reprinted below using pip3 instead of the older version pip:   
+
+In your Terminal or Terminal Emulator, install **JupyterLab** with pip3 instead of pip:
+
+```
+pip3 install jupyterlab   
+```
+
+Install the classic **Jupyter Notebook** with pip3 instead of pip:
+
+```
+pip3 install notebook
+```
+
+Optionally, if you already installed Homebrew (below), you can install JupyterLab this way:
+
+```
+brew install jupyterlab
+```
+
+All of these steps will take some time and will spit out a lot of details on the command line. Keep an eye out for anything that appears as an error message. It's always a good idea to copy the installation log and save it as a text file in case it needs to be reviewed later. Report any such errors to me and include the text you copied, and we'll fix it.  
+
+After each command, wait for your **command prompt** to return to be sure it finished. Your computer's user name will be visible along with the prompt symbol, typically `$` or `%`, and maybe even a fancy blinking cursor...    
+
+```
+louisgoldford$ 
+```
+
+### Verify   
+
+Once installed, simply launch **JupyterLab**:   
+
+```
+jupyter lab   
+```
+
+Or, if this command results in an error, use Python3 to launch JupyterLab instead:   
+
+```   
+python3 -m jupyterlab
+```  
+
+It should take you to its interface in your web browser. Let me know if you experience any other behavior.   
+
+Also, verify that **Jupyter Notebook** installed properly:   
+
+```
+jupyter notebook   
+```
+
+or:   
+
+```
+python3 -m notebook
+```
+
+Like JupyterLab, Jupyter Notebook should also take you to the web browser and open up its own interface. Let me know if you experience any other behavior.    
+
+For further assistance troubleshooting Jupyter-related installation, consult the article [How To Fix "Jupyter: Command Not Found" After Pip Install](https://www.uptimia.com/questions/how-to-fix-jupyter-command-not-found-after-pip-install){:target="_blank"}.    
+
+At any time, exit the Jupyter server  by typing `control Z` to return to your normal Terminal bash command prompt, which should give you something like this:   
+
+```
+[3]+  Stopped	python3 -m	jupyterlab
+louisgoldford$ 
+``` 
+   
+## Julia   
+
+### Install   
+
+Navigate to [Julia Downloads > Current Stable Release](https://julialang.org/downloads/#current_stable_release){:target="_blank"} and select the correct installer for your system. After downloading, unzip or extract the volume and follow any other installation instructions.    
+
+After installation, add Julia to your system's PATH (this step may be done automatically, depending on your OS). For example, on mac0S, open up your **Terminal** and add Julia to your `.bash_profile` or `.zshrc` by running the following command:   
+
+```
+export PATH="/Applications/Julia-1.x.app/Contents/Resources/julia/bin:$PATH"  
+```
+
+To add Julia to your path on Window using a **Terminal Emulator**, follow the instructions given in the article [Install Julia in 4 Simple Steps](https://julialang.org/downloads/platform/#install_julia_in_4_simple_steps){:target="_blank"}   
+
+### Verify   
+
+After you've taken these steps above, in your Terminal or Terminal Emulator simply run the Julia command. For example:  
+
+```
+louisgoldford$ julia
+``` 
+
+In response to this command, your Terminal will transform from shell mode to **REPL mode** (***read–eval–print loop***, a simple interactive computer programming environment with its own input prompt `julia>` as you can see below):   
+
+```
+               _
+   _       _ _(_)_     |  Documentation: https://docs.julialang.org
+  (_)     | (_) (_)    |
+   _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
+  | | | | | | |/ _` |  |
+  | | |_| | | | (_| |  |  Version 1.10.5 (2024-08-27)
+ _/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
+|__/                   |
+
+julia> 
+```
+
+We will run Julia in the Terminal like this. If you do not see a `julia>` prompt like this, let me know.   
+
+At any time, exit **REPL mode**  by typing `control Z` to return to your normal Terminal bash command prompt, which should give you something like this:   
+
+```
+[1]+  Stopped	julia
+louisgoldford$ 
+```
+    
 ## MaxMSP      
 
 _Download + install the current build from:_ <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://cycling74.com/downloads" target="_blank" class="btn btn--primary">MaxMSP</a></span>
@@ -234,16 +407,6 @@ git version 2.20.1 (Apple Git-117)
 ## Additional + Optional Resources   
 
 ### Software      
-
-#### Text Editor  
-
-Highlight your code, easily find & replace, and a LOT more... 
-
-_Check your operating system for compatibility and install one of these:_  
-
-<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
-	<a href="https://code.visualstudio.com/download/" target="_blank" class="btn btn--primary">Visual Studio Code</a> <a href="https://www.sublimetext.com/" target="_blank" class="btn btn--primary">Sublime Text</a> <a href="https://espressoapp.com/" target="_blank" class="btn btn--primary">Espresso</a> <a href="https://brackets.io/" target="_blank" class="btn btn--primary">Brackets.io</a>
-</span>
 
 #### Digital Audio Workstations (DAWs)   
 
