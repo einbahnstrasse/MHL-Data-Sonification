@@ -153,11 +153,8 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 ### <span style="color: #10999e;">{{ site.week-05-topic }}</span>    
     
 #### Terms, Concepts, Objects, Shortcuts    
-- 
 - recursion  
 - recursive function   
-
-
 
 * * *   
   
