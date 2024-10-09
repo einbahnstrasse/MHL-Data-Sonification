@@ -39,7 +39,7 @@ _We will be using a text editor for a variety of regular tasks nearly every week
 
 **pip** is the standard package manager for the Python language, allowing you to easily install code packages and modules from an extensive library. We'll be using a variety of these to faciliate mathetmatics, machine learning, audio analysis, and visualization. 
 
-mac0S comes bundled with Python 2.7, where Windows machines do not have Python installed by default. We will be using **Python3** in this class along with **pip3**, and they must be installed separately. Follow the link below to make these installations, and be sure to choose the most recent versions of Python 3 and pip3!    
+mac0S comes bundled with Python 2.7, whereas Windows machines do not have Python installed by default. We will be using **Python3** in this class along with **pip3**, and they must be installed separately. Follow the link below to make these installations, and be sure to choose the most recent versions of Python 3 and pip3!    
 
 ### Install     
 
