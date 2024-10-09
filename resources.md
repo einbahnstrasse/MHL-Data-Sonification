@@ -442,13 +442,13 @@ git version 2.20.1 (Apple Git-117)
    
 ### History + References   
 
-Free online & interactive coding references:   
-
+#### Free JavaScript + Python Coding Resources  
+   
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	<a href="https://eloquentjavascript.net/" target="_blank" class="btn btn--primary">Eloquent JavaScript</a> <a href="https://javascript.info/" target="_blank" class="btn btn--primary">The Modern JavaScript Tutorial</a> <a href="https://exploringjs.com/js/book/index.html" target="_blank" class="btn btn--primary">Exploring JavaScript</a> <a href="https://greenteapress.com/thinkstats2/html/index.html" target="_blank" class="btn btn--primary">Think Stats: Exploratory Data Analysis in Python</a> <a href="https://www.py4e.com/book" target="_blank" class="btn btn--primary">Python for Everybody</a> <a href="https://python101.pythonlibrary.org/" target="_blank" class="btn btn--primary">Python 101</a> <a href="http://neuralnetworksanddeeplearning.com/index.html" target="_blank" class="btn btn--primary">Neural Networks and Deep Learning</a>          
 </span>
   
-Audio and Compter Music  
+#### Audio + Compter Music  
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	<a href="https://120years.net/" target="_blank" class="btn btn--primary">120 Years Of Electronic Music</a> <a href="https://musicandcomputersbook.com/" target="_blank" class="btn btn--primary">Music and Computers: A Theoretical and Historical Approach</a> <a href="https://msp.ucsd.edu/techniques.htm" target="_blank" class="btn btn--primary">The Theory and Technique of Electronic Music (Miller Puckette)</a> <a href="http://www.pd-tutorial.com/" target="_blank" class="btn btn--primary">Programming Electronic Music in Pd (Johannes Kreidler)</a>    
