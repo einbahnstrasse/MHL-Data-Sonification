@@ -414,6 +414,14 @@ git version 2.20.1 (Apple Git-117)
 
 ## Additional + Optional Resources   
 
+### Data Sonification Archive   
+
+> *“This curated collection is part of a broader research endeavor in which data, sonification and design converge to explore the potential of sound in complementing other modes of representation and broadening the publics of data. With visualization still being one of the prominent forms of data transformation, we believe that sound can both enrich the experience of data and build new publics.”*  
+    
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
+	<a href="https://sonification.design/" target="_blank" class="btn btn--primary">Data Sonification Archive</a> 
+</span>
+   
 ### Software      
 
 #### Digital Audio Workstations (DAWs)   
