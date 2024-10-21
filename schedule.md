@@ -111,7 +111,17 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 #### Tutorials   
 * [JavaScript Basics](https://einbahnstrasse.github.io/Goldford-MTEC1003/labs/05/js-basics.html#1.0){:target="_blank"}  
 * [Introduction to Python Slides](https://einbahnstrasse.github.io/MTEC1003-slides/slides/python.intro.tutorial.v02/#/){:target="_blank"}  
+   
+* * *  
+   
+## Week 4: {{ site.week-04 }}  
+### <span style="color: #10999e;">{{ site.week-04-topic }}</span>    
 
+#### Share Your `import.to.coll.v01.maxpat` from Week 2    
+
+#### Boiler Downloads   
+* [Introduction to JS + Py Boilers](https://github.com/einbahnstrasse/MHL-Datensonifikation-Week-04-boiler){:target="_blank"}  
+  
 #### Terms, Concepts, Objects, Shortcuts    
 - high level programming language     
 - JavaScript Console   
@@ -128,12 +138,12 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 - variables and `=`   
 - declaration       
 - comments  
-   
-* * *  
-   
-## Week 4: {{ site.week-04 }}  
-### <span style="color: #10999e;">{{ site.week-04-topic }}</span>    
 
+* * *  
+
+## Week 5: {{ site.week-05 }}  
+### <span style="color: #10999e;">{{ site.week-05-topic }}</span>    
+    
 #### Terms, Concepts, Objects, Shortcuts    
 - control flow  
 - iteration   
@@ -146,16 +156,7 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 - `=` vs. `==` vs. `!==` vs. `===`   
 - local vs. global variables   
 - variable scope: `var`, `let`, and `const`       
-
-* * *  
-
-## Week 5: {{ site.week-05 }}  
-### <span style="color: #10999e;">{{ site.week-05-topic }}</span>    
-    
-#### Terms, Concepts, Objects, Shortcuts    
-- recursion  
-- recursive function   
-
+   
 * * *   
   
 ## Week 6: {{ site.week-06 }}  
@@ -165,6 +166,11 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 
 ## Week 7: {{ site.week-07 }}  
 ### <span style="color: #10999e;">{{ site.week-07-topic }}</span>    
+
+#### Terms, Concepts, Objects, Shortcuts    
+- recursion  
+- recursive function   
+
 
 * * *  
 
