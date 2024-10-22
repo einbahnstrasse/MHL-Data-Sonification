@@ -141,7 +141,7 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 - call to a function   
 - arguments   
 - variables and `=`   
-- declaration       
+- declaration vs. initialization         
 - comments  
 
 * * *  
