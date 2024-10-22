@@ -117,11 +117,11 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: #10999e;">{{ site.week-04-topic }}</span>    
 
-*Share Your* `import.to.coll.v01.maxpat` *from Week 2!*    
-
 #### Boiler Downloads   
 * [Introduction to JS + Py Boilers](https://github.com/einbahnstrasse/MHL-Datensonifikation-Week-04-boiler){:target="_blank"}  
-
+  
+*Share Your* `import.to.coll.v01.maxpat` *from Week 2!*    
+  
 #### Assignments    
 
 * **Finish these things** we made in class:   
