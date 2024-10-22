@@ -123,7 +123,7 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 *Share Your* `import.to.coll.v01.maxpat` *from Week 2!*    
   
 #### Assignments    
-* Send me a link to your Github repository for this class.   
+* Send me a link to your **Github repository**.   
 * **Finish these things** we made in class:   
   - `week-3-exercises.js`     
   - `week-3-exercises.py`    
