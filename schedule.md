@@ -122,6 +122,8 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 #### Boiler Downloads   
 * [Introduction to JS + Py Boilers](https://github.com/einbahnstrasse/MHL-Datensonifikation-Week-04-boiler){:target="_blank"}  
 
+#### Assignments    
+
 * **Finish these things** we made in class:   
   - `week-3-exercises.js`     
   - `week-3-exercises.py`    
