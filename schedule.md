@@ -121,10 +121,15 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 * [Introduction to JS + Py Boilers](https://github.com/einbahnstrasse/MHL-Datensonifikation-Week-04-boiler){:target="_blank"}  
   
 *Share Your* `import.to.coll.v01.maxpat` *from Week 2!*    
-  
+
+#### Tutorials   
+* [Completion of Week 4 Exercises](https://youtu.be/9bJ2ce2otkQ?si=qDimtVLk9KII1LfH){:target="_blank"}  
+
+{% include video id="9bJ2ce2otkQ?si=qDimtVLk9KII1LfH" provider="youtube" %}    
+
 #### Assignments    
 * Send me a link to your **Github repository**.   
-* **Finish these things** we made in class:   
+* **Finish these things** we made in class (following the ***video tutorial*** above):   
   - `week-3-exercises.js`     
   - `week-3-exercises.py`    
 
