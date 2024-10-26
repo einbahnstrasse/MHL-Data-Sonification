@@ -176,8 +176,6 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 - comparison operators (`==`, `===`, `!=`, `!==`, `<`, `>`, `>=`, `<=`, `is`, `is not`)  
 - logical operators (`&&`, `||`, `!`, `and`, `or`, `not`)  
 - `=` vs. `==` vs. `!==` vs. `===`   
-- local vs. global variables   
-- variable scope: `var`, `let`, and `const`       
    
 * * *   
   
@@ -215,8 +213,9 @@ _Just watch these: you don't have to code them!_
 - recursion  
 - recursive function   
 - self-similarity  
-
-
+- local vs. global variables   
+- variable scope: `var`, `let`, and `const`        
+   
 * * *  
 
 ## Week 8: {{ site.week-08 }}  
