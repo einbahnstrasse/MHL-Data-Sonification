@@ -187,7 +187,7 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 Since we will not be having class this week, work on this assignment at your own pace (asynchronously), and send me your reactions by Friday's deadline.
 
 * Finish [Week 6 Asynchronous Reflections](https://einbahnstrasse.github.io/MHL-Data-Sonification/week-06-asynchronous/){:target="_blank"}, **by Friday, November 8**.    
-* Be sure to prepare for Week 7 by **reading the Week 7 slides**!   
+* Be sure to prepare for Week 7 by **reading the Week 7 slides** and **watching the videos**!   
 
 * * *
 
@@ -199,10 +199,22 @@ Since we will not be having class this week, work on this assignment at your own
 * [Python Function Defintions + Calls](https://einbahnstrasse.github.io/MTEC1003-slides/slides/functions.tutorial.v01/#/){:target="_blank"}  
 * [More Kinds of Loops](https://einbahnstrasse.github.io/MTEC1003-slides/slides/more.loops.tutorial.v01/#/){:target="_blank"}, especially the sections on [self similarity + recursion (slides 18—51)](https://einbahnstrasse.github.io/MTEC1003-slides/slides/more.loops.tutorial.v01/#/18){:target="_blank"}     
 
+#### Videos   
+
+_Just watch these: you don't have to code them!_  
+
+* [Thorsten Altenkirch's _Tower of Hanoi_ Solution in Python](https://youtu.be/8lhxIOAfDss?si=sisO74481tojwDiS){:target="_blank"}   
+   
+{% include video id="8lhxIOAfDss?si=sisO74481tojwDiS" provider="youtube" %}    
+   
+* [Daniel Shiffman's Fractal Tree Drawing in `p5.js`](https://youtu.be/0jjeOYMjmDU?si=TiGCIljKQkZXtG5c){:target="_blank"}   
+
+{% include video id="0jjeOYMjmDU?si=TiGCIljKQkZXtG5c" provider="youtube" %}    
    
 #### Terms, Concepts, Objects, Shortcuts    
 - recursion  
 - recursive function   
+- self-similarity  
 
 
 * * *  
