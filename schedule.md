@@ -160,6 +160,12 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 * [For Loops (examples in Python)](https://einbahnstrasse.github.io/MTEC1003-slides/slides/python.for.loop.tutorial.v01/#/){:target="_blank"}  
 * [Booleans + Conditionals (examples in Python and JavaScript)](https://einbahnstrasse.github.io/MTEC1003-slides/slides/python.conditionals.tutorial.v01/#/){:target="_blank"}  
     
+#### Assignments    
+* Assign [Week 6 Asynchronous Reflections](https://einbahnstrasse.github.io/MHL-Data-Sonification/week-06-asynchronous.html){:target="_blank"}, to be **completed by Friday, November 8**. Since we will not be having class next week, work on this on your own (asynchronously), and send me your reactions by next Friday's deadline.   
+* **Finish these things** we made in class (following the ***video tutorial*** above):   
+  - `week-5-exercises.js`     
+  - `week-5-exercises.py`    
+
 #### Terms, Concepts, Objects, Shortcuts    
 - control flow  
 - iteration   
@@ -177,6 +183,8 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
   
 ## Week 6: {{ site.week-06 }}  
 ### <span style="color: #10999e;">{{ site.week-06-topic }}</span>    
+
+
 
 * * *
 
