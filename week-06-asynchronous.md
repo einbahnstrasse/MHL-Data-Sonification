@@ -68,6 +68,7 @@ You have the option to simply speak about your thoughts on these questions and *
 
 Or, you can use some very powerful **speech-to-text features** to do the typing for you. Here, I demonstrate how this can be done in **Google Docs** or the **Gmail mobile app**:   
 
-{% include video id="9bJ2ce2otkQ?si=qDimtVLk9KII1LfH" provider="youtube" %}    
+<!-- https://youtu.be/AZrORFytLWI?si=sfos3LldJYXfi-id -->
+{% include video id="AZrORFytLWI?si=sfos3LldJYXfi-id" provider="youtube" %}    
 
 
