@@ -161,7 +161,7 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 * [Booleans + Conditionals (examples in Python and JavaScript)](https://einbahnstrasse.github.io/MTEC1003-slides/slides/python.conditionals.tutorial.v01/#/){:target="_blank"}  
     
 #### Assignments    
-* Assign [Week 6 Asynchronous Reflections](https://einbahnstrasse.github.io/MHL-Data-Sonification/week-06-asynchronous.html){:target="_blank"}, to be **completed by Friday, November 8**. Since we will not be having class next week, work on this on your own (asynchronously), and send me your reactions by next Friday's deadline.   
+* Assign [Week 6 Asynchronous Reflections](https://einbahnstrasse.github.io/MHL-Data-Sonification/week-06-asynchronous/){:target="_blank"}, to be **completed by Friday, November 8**. Since we will not be having class next week, work on this assignment ***at your own pace*** (asynchronously), and send me your reactions by next Friday's deadline.   
 * **Finish these things** we made in class (following the ***video tutorial*** above):   
   - `week-5-exercises.js`     
   - `week-5-exercises.py`    
@@ -183,14 +183,23 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
   
 ## Week 6: {{ site.week-06 }}  
 ### <span style="color: #10999e;">{{ site.week-06-topic }}</span>    
+   
+Since we will not be having class this week, work on this assignment at your own pace (asynchronously), and send me your reactions by Friday's deadline.
 
-
+* Finish [Week 6 Asynchronous Reflections](https://einbahnstrasse.github.io/MHL-Data-Sonification/week-06-asynchronous/){:target="_blank"}, **by Friday, November 8**.    
+* Be sure to prepare for Week 7 by **reading the Week 7 slides**!   
 
 * * *
 
 ## Week 7: {{ site.week-07 }}  
 ### <span style="color: #10999e;">{{ site.week-07-topic }}</span>    
 
+#### Tutorials   
+* [JavaScript Functions Revisited](https://einbahnstrasse.github.io/Goldford-MTEC1003/labs/09/js.functions.html#1.0){:target="_blank"}  
+* [Python Function Defintions + Calls](https://einbahnstrasse.github.io/MTEC1003-slides/slides/functions.tutorial.v01/#/){:target="_blank"}  
+* [More Kinds of Loops](https://einbahnstrasse.github.io/MTEC1003-slides/slides/more.loops.tutorial.v01/#/){:target="_blank"}, especially the sections on [self similarity + recursion (slides 18—51)](https://einbahnstrasse.github.io/MTEC1003-slides/slides/more.loops.tutorial.v01/#/18){:target="_blank"}     
+
+   
 #### Terms, Concepts, Objects, Shortcuts    
 - recursion  
 - recursive function   
