@@ -31,9 +31,9 @@ Check out the [**Data Sonification Archive**](https://sonification.design/){:tar
 
 Your tasks: 
 
-1. Have a look at — and a listen to — the various projects in the archive. 
-2. Identify 2 projects in the archive: one that you like, and one that you don't like, or don't like _as much_, or one that you are more critical of. 
-3. Write down your reflections on each of these (or make a recording, as described below). Devote about one paragraph of your thoughts to each of your choices; at least a few sentences each, detailing what you think are their specific strengths and weaknesses, and their alignment (or disalignment!) with your aesthetic or artistic orientation. 
+1. Have a **look** at — and a **listen** to — the various projects in the archive. 
+2. **Identify 2 projects** in the archive: one that you **like**, and one that you **don't like**, or don't like _as much_, or one that you are more critical of. 
+3. Write down your reflections on each of these (or make a recording, as described below). Devote **about one paragraph of your thoughts to each of your choices**; at least a few sentences each, detailing what you think are their specific strengths and weaknesses, and their alignment (or disalignment!) with your aesthetic or artistic orientation. 
 4. You can write or record more than 2 paragraphs as needed, but at a very minimum, one paragraph each is suitable to make your position clear for each piece. 
 5. You can also choose more than 2 pieces if you prefer, but don't let these "extras" get in the way of the tasks below.  
 
@@ -43,20 +43,20 @@ After considering the archive, and after the first 4 weeks of technical skill bu
 
 Write down or record a short summary of your thinking up to this point. Answer the folloiwng questions:   
 
-1. Did you have an initial project idea before we began our seminar?  
-2. How have our materials potentially changed your thinking about the use of data in music?  
-3. You don't need to have a fully-formed project proposal yet, but if you had to make a decision today, what would your project proposal look like? 
-4. How might you use real-world or generated data to make a notated concert piece, an installation work, an improvisational environment, or another expressive and artistic form?  
-5. Have our course materials given you any new ideas about how you might use data in your work?   
-6. What would you like to accomplish this semester in terms of building your data analysis or sonification skills?  
+1. Did you have an **initial project idea** before we began our seminar?  
+2. How have our class materials potentially changed your thinking about the use of data in music (that is, what we have done so far)?  
+3. You don't need to have a fully-formed project proposal yet, but _if you had to make a decision today, what would your project proposal be, or include?_ 
+4. **How might you use real-world or generated data** to make a notated concert piece, an installation work, an improvisational environment, or another expressive and artistic form?  
+5. Have our course materials given you any **new ideas** about how you might use data in your work?   
+6. What would you like to accomplish this semester in terms of **building your data analysis or sonification skills**?  
 7. What are your thoughts on the following statement:
 
-> “Sonification pieces should strive to make relationships in the data intelligible in the sound.”   
+> “Sonification pieces should strive to make relationships in the data **intelligible in the sound**.”   
 
-- Is this necessary to make a successful piece?
-- What are some strategies you can envision that work within and outside of an intelligibility requirement?   
+- Is this **necessary** to make a successful piece?
+- What are some **strategies** you can envision that work within and outside of an intelligibility requirement?   
 
-8. Do your reactions to the Sonification Archive (above) inform your aesthetic direction? Are there things you want to avoid or pursue that you picked up from the pieces you heard there?     
+8. Do your reactions to the Sonification Archive (above) inform your aesthetic direction? Are there things you want to **avoid** or **pursue** that you picked up from the pieces you heard there?     
 
 You might need more room to answer these questions, so be prepared to submit about 3-5 paragraphs worth of your thoughts, or however you much you think is necessary.   
    
