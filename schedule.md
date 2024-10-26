@@ -155,6 +155,10 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 
 ## Week 5: {{ site.week-05 }}  
 ### <span style="color: #10999e;">{{ site.week-05-topic }}</span>    
+
+#### Tutorials   
+* [For Loops (examples in Python)](https://einbahnstrasse.github.io/MTEC1003-slides/slides/python.for.loop.tutorial.v01/#/){:target="_blank"}  
+* [Booleans + Conditionals (examples in Python and JavaScript)](https://einbahnstrasse.github.io/MTEC1003-slides/slides/python.conditionals.tutorial.v01/#/){:target="_blank"}  
     
 #### Terms, Concepts, Objects, Shortcuts    
 - control flow  
