@@ -191,7 +191,13 @@ Since we will not be having class this week, work on this assignment at your own
 
 ## Week 7: {{ site.week-07 }}  
 ### <span style="color: #10999e;">{{ site.week-07-topic }}</span>    
+      
+   
+* * *  
 
+## Week 8: {{ site.week-08 }}  
+### <span style="color: #10999e;">{{ site.week-08-topic }}</span>    
+   
 #### Tutorials   
 * [JavaScript Functions Revisited](https://einbahnstrasse.github.io/Goldford-MTEC1003/labs/09/js.functions.html#1.0){:target="_blank"}  
 * [Python Function Defintions + Calls](https://einbahnstrasse.github.io/MTEC1003-slides/slides/functions.tutorial.v01/#/){:target="_blank"}  
@@ -214,12 +220,7 @@ _Just watch these: you don't have to code them!_
 - recursive function   
 - self-similarity  
 - local vs. global variables   
-- variable scope: `var`, `let`, and `const`        
-   
-* * *  
-
-## Week 8: {{ site.week-08 }}  
-### <span style="color: #10999e;">{{ site.week-08-topic }}</span>    
+- variable scope: `var`, `let`, and `const`  
    
 * * *
 
