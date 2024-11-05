@@ -163,19 +163,16 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 #### Assignments    
 * Assign [Week 6 Asynchronous Reflections](https://einbahnstrasse.github.io/MHL-Data-Sonification/week-06-asynchronous/){:target="_blank"}, to be **completed by Friday, November 8**. Since we will not be having class next week, work on this assignment ***at your own pace*** (asynchronously), and send me your reactions by next Friday's deadline.   
 * **Finish these things** we made in class (following the ***video tutorial*** above):   
-  - `week-5-exercises.js`     
-  - `week-5-exercises.py`    
+  - `iteration.in.max.maxpat`  
+  - ~~`week-5-exercises.js`~~     
+  - ~~`week-5-exercises.py`~~    
+
+_We began_ `week-5-exercises.js` _but will continue and finish it in Week 7._   
 
 #### Terms, Concepts, Objects, Shortcuts    
 - control flow  
 - iteration   
 - "for loop"  
-- `for x in myExs`  
-- while loop  
-- conditional statement   
-- comparison operators (`==`, `===`, `!=`, `!==`, `<`, `>`, `>=`, `<=`, `is`, `is not`)  
-- logical operators (`&&`, `||`, `!`, `and`, `or`, `not`)  
-- `=` vs. `==` vs. `!==` vs. `===`   
    
 * * *   
   
@@ -192,6 +189,18 @@ Since we will not be having class this week, work on this assignment at your own
 ## Week 7: {{ site.week-07 }}  
 ### <span style="color: #10999e;">{{ site.week-07-topic }}</span>    
       
+#### Assignments   
+* **Finish these things** we made in class:   
+  - `week-5-exercises.js`     
+  - `week-5-exercises.py`    
+
+#### Terms, Concepts, Objects, Shortcuts    
+- `for x in myExs`  
+- while loop  
+- conditional statement   
+- comparison operators (`==`, `===`, `!=`, `!==`, `<`, `>`, `>=`, `<=`, `is`, `is not`)  
+- logical operators (`&&`, `||`, `!`, `and`, `or`, `not`)  
+- `=` vs. `==` vs. `!==` vs. `===`   
    
 * * *  
 
