@@ -192,8 +192,11 @@ Since we will not be having class this week, work on this assignment at your own
 #### Assignments   
 * **Finish these things** we made in class:   
   - `week-5-exercises.js`     
-  - `week-5-exercises.py`    
-
+  - ~~`week-5-exercises.py`~~    
+* To facilitate this, [watch the video demonstrating the remaining exercises](https://youtu.be/06mCfjN9duY?si=1oHyMZI0Ldotiy8U){:target="_blank"} (1-18 in all):      
+  
+{% include video id="06mCfjN9duY?si=1oHyMZI0Ldotiy8U" provider="youtube" %}    
+  
 #### Terms, Concepts, Objects, Shortcuts    
 - `for x in myExs`  
 - while loop  
@@ -207,6 +210,12 @@ Since we will not be having class this week, work on this assignment at your own
 ## Week 8: {{ site.week-08 }}  
 ### <span style="color: #10999e;">{{ site.week-08-topic }}</span>    
    
+_Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus, in the old Karstadt building, located at Königstraße 54 in the_ [**Übergangshaus**](http://xn--bergangshaus-clb.de/){:target="_blank"}. _Click on the map below for directions. Take the escalator to the 2nd floor and find the Spatial Audio Lab._   
+  
+<div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=%C3%9Cbergangshaus,%20K%C3%B6nigstra%C3%9Fe%2054,%2023552%20L%C3%BCbeck+(Digital%20Learning%20Campus)&amp;t=h&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps trackers</a></iframe></div>    
+
+<!-- source: https://www.maps.ie/create-google-map/ -->
+
 #### Tutorials   
 * [JavaScript Functions Revisited](https://einbahnstrasse.github.io/Goldford-MTEC1003/labs/09/js.functions.html#1.0){:target="_blank"}  
 * [Python Function Defintions + Calls](https://einbahnstrasse.github.io/MTEC1003-slides/slides/functions.tutorial.v01/#/){:target="_blank"}  
