@@ -218,7 +218,10 @@ _Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus,
 
 #### Boiler Downloads   
 * [JupyterLab Coffee Data Boiler](https://github.com/einbahnstrasse/MHL-Datensonifikation-Week-08-boiler){:target="_blank"}  
-
+* [Watch the quick installation video.](https://youtu.be/2AZ7uMqnzhY?si=lofQoCxqYG3TULx6){:target="_blank"} (1-18 in all):      
+    
+{% include video id="2AZ7uMqnzhY?si=lofQoCxqYG3TULx6" provider="youtube" %}    
+  
 #### Tutorials   
 * [JavaScript Functions Revisited](https://einbahnstrasse.github.io/Goldford-MTEC1003/labs/09/js.functions.html#1.0){:target="_blank"}  
 * [Python Function Defintions + Calls](https://einbahnstrasse.github.io/MTEC1003-slides/slides/functions.tutorial.v01/#/){:target="_blank"}  
