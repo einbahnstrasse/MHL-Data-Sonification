@@ -218,7 +218,7 @@ _Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus,
 
 #### Boiler Downloads   
 * [JupyterLab Coffee Data Boiler](https://github.com/einbahnstrasse/MHL-Datensonifikation-Week-08-boiler){:target="_blank"}  
-* [Watch the quick installation video.](https://youtu.be/2AZ7uMqnzhY?si=lofQoCxqYG3TULx6){:target="_blank"}:      
+* [Watch the quick installation video:](https://youtu.be/2AZ7uMqnzhY?si=lofQoCxqYG3TULx6){:target="_blank"}        
     
 {% include video id="2AZ7uMqnzhY?si=lofQoCxqYG3TULx6" provider="youtube" %}    
   
